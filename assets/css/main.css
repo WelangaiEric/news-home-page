@@ -437,7 +437,7 @@ h5:hover{
         display:flex;
         justify-content: center;
         align-items: center;
-        background-color:none;
+        background-color:transparent;
 
        /* height: ; */
         position: relative;
